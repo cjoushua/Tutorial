@@ -1,0 +1,7 @@
+C:\GoogleDriver\Coding\Tutorial\bin\Debug\Tutorial.exe.config
+C:\GoogleDriver\Coding\Tutorial\bin\Debug\Tutorial.exe
+C:\GoogleDriver\Coding\Tutorial\bin\Debug\Tutorial.pdb
+C:\GoogleDriver\Coding\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+C:\GoogleDriver\Coding\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\GoogleDriver\Coding\Tutorial\obj\Debug\Tutorial.exe
+C:\GoogleDriver\Coding\Tutorial\obj\Debug\Tutorial.pdb
