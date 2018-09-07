@@ -5,3 +5,8 @@ C:\GoogleDriver\Coding\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
 C:\GoogleDriver\Coding\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
 C:\GoogleDriver\Coding\Tutorial\obj\Debug\Tutorial.exe
 C:\GoogleDriver\Coding\Tutorial\obj\Debug\Tutorial.pdb
+C:\GoogleDriver\Coding\Tutorial\bin\Debug\PCLWebUtility.dll
+C:\GoogleDriver\Coding\Tutorial\obj\Debug\Tutorial.csproj.CopyComplete
+C:\GoogleDriver\Coding\Tutorial\bin\Debug\nunit.framework.dll
+C:\GoogleDriver\Coding\Tutorial\bin\Debug\nunit.framework.pdb
+C:\GoogleDriver\Coding\Tutorial\bin\Debug\nunit.framework.xml
