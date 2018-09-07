@@ -52,10 +52,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnimalAttribute.cs" />
+    <Compile Include="CustomAttribute.cs" />
     <Compile Include="MyMultiThread.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Websequencediagrams.cs" />
+    <Compile Include="Regular.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
