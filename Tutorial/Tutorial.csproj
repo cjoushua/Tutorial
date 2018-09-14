@@ -36,6 +36,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
     <Reference Include="LINQPad, Version=1.0.0.0, Culture=neutral, PublicKeyToken=21353812cd2a2db5, processorArchitecture=MSIL">
       <HintPath>packages\LINQPad.5.26.1\lib\net46\LINQPad.exe</HintPath>
     </Reference>
@@ -78,6 +81,7 @@
   <ItemGroup>
     <Compile Include="AnimalAttribute.cs" />
     <Compile Include="CustomAttribute.cs" />
+    <Compile Include="iTextPDFTest.cs" />
     <Compile Include="LinQPadTest.cs" />
     <Compile Include="MyMultiThread.cs" />
     <Compile Include="Program.cs" />
