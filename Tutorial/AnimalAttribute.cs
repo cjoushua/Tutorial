@@ -79,7 +79,7 @@ namespace TestProject
 }
 
 /*
- * 輸出結果:
+ * output:
  * Method DogMethod has a pet Dog attribute.
  * Method CatMethod has a pet Cat attribute.
  * Method BirdMethod has a pet Bird attribute.
