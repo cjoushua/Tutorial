@@ -13,7 +13,7 @@ namespace TestProject
         Bird,
     }
 
-    // 一個自訂的 attribute 能允許目標物定義一個 pet (繼承 Attribute 類別)
+    // a custom attribute 能允許目標物定義一個 pet (繼承 Attribute 類別)
     public class AnimalAttribute : Attribute
     {
         // 當這個 attribute 被設定時，這個建構子(constructor)會被呼叫

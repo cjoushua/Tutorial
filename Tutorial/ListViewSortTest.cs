@@ -1,5 +1,4 @@
-﻿using System;
-using System.Drawing;
+﻿using System.Drawing;
 using System.Windows.Forms;
 
 namespace Tutorial
@@ -89,11 +88,11 @@ namespace Tutorial
                 if (SortType)
                 {
                     //using the string compare instance
-                    return string.Compare(((ListViewItem)a).SubItems[Column].Text, ((ListViewItem)b).SubItems[Column].Text);
+                    return string.Compare(((ListViewItem)a).SubItems[Column].Text.Substring(0, 1), ((ListViewItem)b).SubItems[Column].Text.Substring(0, 1));
                 }
                 else
                 {
-                    return string.Compare(((ListViewItem)b).SubItems[Column].Text, ((ListViewItem)a).SubItems[Column].Text);
+                    return string.Compare(((ListViewItem)b).SubItems[Column].Text.Substring(0, 1), ((ListViewItem)a).SubItems[Column].Text.Substring(0, 1));
                 }
             }
         }

@@ -35,5 +35,19 @@ namespace TestProject
             }
 
         }
+
+        public string GetChineseWord(string words)
+        {
+            string result = null;
+            for (int i = 0; i < words.Length; i++)
+            {
+                Regex rx = new Regex(@"[\u4e00-\u9fa5]+");//中文字符unicode范围  
+                if (rx.IsMatch(words[i].ToString()))
+                {
+                    result += words[i].ToString();
+                }
+            }
+            return result;
+        }
     }
 }
