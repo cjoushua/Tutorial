@@ -96,6 +96,7 @@
     <Compile Include="iTextPDFTest.cs" />
     <Compile Include="LinQPadTest.cs" />
     <Compile Include="ListViewSortTest.cs" />
+    <Compile Include="MyDelegate.cs" />
     <Compile Include="MyMultiThread.cs" />
     <Compile Include="FileLibrary.cs" />
     <Compile Include="Program.cs" />
