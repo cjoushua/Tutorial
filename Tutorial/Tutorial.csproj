@@ -94,6 +94,7 @@
     <Compile Include="AspIdentifyHash.cs" />
     <Compile Include="CustomAttribute.cs" />
     <Compile Include="iTextPDFTest.cs" />
+    <Compile Include="JCollection.cs" />
     <Compile Include="LinQPadTest.cs" />
     <Compile Include="ListViewSortTest.cs" />
     <Compile Include="MyDelegate.cs" />
@@ -102,7 +103,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Regular.cs" />
-    <Compile Include="IQSHA256.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
